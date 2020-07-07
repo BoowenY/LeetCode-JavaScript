@@ -6,7 +6,7 @@
  */
 var divingBoard = function(shorter, longer, k) {
     let  arr = []
-    const gap = long - shorter
+    const gap = longer - shorter
     let res = shorter * k;
     if(k == 0) return arr 
     arr.push(res);
