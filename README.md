@@ -1,2 +1,2 @@
-# LeetCode-JavaScript-C-
-一起刷题，共同进步
+# LeetCode-JavaScript
+用心做好每一道题
