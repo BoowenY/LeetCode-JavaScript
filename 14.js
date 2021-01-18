@@ -1,3 +1,4 @@
+
 var longestCommonPrefix = function(strs) {
     strs.sort()//按编码排序
     if (strs.length === 0) return ''//空数组返回''
