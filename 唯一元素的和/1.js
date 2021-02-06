@@ -28,7 +28,6 @@ var sumOfUnique = function (nums) {
       m.set(e, add);
     } else m.set(e, 1);
   });
-  console.log(...m);
   nums.map((e) => {
     if (m.get(e) == 1) res += e;
   });
